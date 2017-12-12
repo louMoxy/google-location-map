@@ -1,0 +1,13 @@
+.vscode/
+.idea/
+npm-debug.log
+__pycache__/
+htmlcov/
+.DS_Store
+.coverage
+.cache/
+dist/
+node_modules/
+*debug.log
+sessions/
+repo-data/
