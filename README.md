@@ -7,3 +7,5 @@ To run:
 - npm start
 
 Demo: http://louisemoxhay.co.uk/google-location-map/
+
+![screenshot](/screenshot.png)
