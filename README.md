@@ -6,3 +6,4 @@ To run:
 - npm install
 - npm start
 
+Demo: http://louisemoxhay.co.uk/google-location-map/
